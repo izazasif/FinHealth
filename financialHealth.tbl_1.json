@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "6551198531153967810124c0"
+  },
+  "monthlyIncome": 10.2,
+  "monthlyExpenses": 23.5,
+  "totalDebts": 33.9,
+  "totalAssets": 4.8,
+  "financialHealthScore": 37.8
+},
+{
+  "_id": {
+    "$oid": "6552579667186c977c40aed4"
+  },
+  "monthlyIncome": 65,
+  "monthlyExpenses": 4,
+  "totalDebts": 5,
+  "totalAssets": 4,
+  "financialHealthScore": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655257dd67186c977c40aed6"
+  },
+  "monthlyIncome": 65,
+  "monthlyExpenses": 4,
+  "totalDebts": 5,
+  "totalAssets": 4,
+  "financialHealthScore": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552580567186c977c40aed8"
+  },
+  "monthlyIncome": 656,
+  "monthlyExpenses": 567,
+  "totalDebts": 56,
+  "totalAssets": 5,
+  "financialHealthScore": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525868fd6a9f29369012d8"
+  },
+  "monthlyIncome": 5,
+  "monthlyExpenses": 5,
+  "totalDebts": 4,
+  "totalAssets": 5,
+  "financialHealthScore": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525906a316e3a214c0b434"
+  },
+  "monthlyIncome": 10,
+  "monthlyExpenses": 5,
+  "totalDebts": 5,
+  "totalAssets": 10,
+  "financialHealthScore": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552593ba316e3a214c0b436"
+  },
+  "monthlyIncome": 10,
+  "monthlyExpenses": 5,
+  "totalDebts": 10,
+  "totalAssets": 5,
+  "financialHealthScore": 229.99999999999997,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525add10a75ad63b7c7206"
+  },
+  "monthlyIncome": 34,
+  "monthlyExpenses": 3,
+  "totalDebts": 3,
+  "totalAssets": 4,
+  "financialHealthScore": 600.686274509804,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525aea13fd4dd545b38521"
+  },
+  "monthlyIncome": 34,
+  "monthlyExpenses": 3,
+  "totalDebts": 3,
+  "totalAssets": 4,
+  "financialHealthScore": 600.686274509804,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525b66511764c00e9b538e"
+  },
+  "monthlyIncome": 20,
+  "monthlyExpenses": 5,
+  "totalDebts": 20,
+  "totalAssets": 5,
+  "financialHealthScore": 310,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525bc8a4d14809aabfc6df"
+  },
+  "monthlyIncome": 30,
+  "monthlyExpenses": 5,
+  "totalDebts": 10,
+  "totalAssets": 5,
+  "financialHealthScore": 410.00000000000006,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525c4b5380e0c4dd384405"
+  },
+  "monthlyIncome": 30,
+  "monthlyExpenses": 20,
+  "totalDebts": 10,
+  "totalAssets": 5,
+  "financialHealthScore": 229.99999999999997,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525c620598dedb24e4aee7"
+  },
+  "monthlyIncome": 30,
+  "monthlyExpenses": 20,
+  "totalDebts": 10,
+  "totalAssets": 5,
+  "financialHealthScore": 229.99999999999997,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525c7a0598dedb24e4aee9"
+  },
+  "monthlyIncome": 34,
+  "monthlyExpenses": 3,
+  "totalDebts": 34,
+  "totalAssets": 34,
+  "financialHealthScore": 1473.3333333333335,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525d6345d46ced47641c2e"
+  },
+  "monthlyIncome": 30,
+  "monthlyExpenses": 45,
+  "totalDebts": 10,
+  "totalAssets": 5,
+  "financialHealthScore": 196.66666666666669,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525e627e6e0a9a55bfcbcd"
+  },
+  "monthlyIncome": 20,
+  "monthlyExpenses": 5,
+  "totalDebts": 10,
+  "totalAssets": 5,
+  "financialHealthScore": 325,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525f427e6e0a9a55bfcbd0"
+  },
+  "monthlyIncome": 15,
+  "monthlyExpenses": 15,
+  "totalDebts": 15,
+  "totalAssets": 15,
+  "financialHealthScore": 490.00000000000006,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65525fde7e6e0a9a55bfcbd3"
+  },
+  "monthlyIncome": 10,
+  "monthlyExpenses": 20,
+  "totalDebts": 30,
+  "totalAssets": 40,
+  "financialHealthScore": 1160,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6552608e7e6e0a9a55bfcbd5"
+  },
+  "monthlyIncome": null,
+  "monthlyExpenses": null,
+  "totalDebts": null,
+  "totalAssets": null,
+  "financialHealthScore": 1540,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655260be7e6e0a9a55bfcbd8"
+  },
+  "monthlyIncome": 100,
+  "monthlyExpenses": 100,
+  "totalDebts": 100,
+  "totalAssets": 100,
+  "financialHealthScore": 3040,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655267576d0949fc40178c1f"
+  },
+  "monthlyIncome": 200,
+  "monthlyExpenses": 200,
+  "totalDebts": 200,
+  "totalAssets": 200,
+  "financialHealthScore": 6040,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65526ba09f30a1165ad6ce52"
+  },
+  "monthlyIncome": 290,
+  "monthlyExpenses": 290,
+  "totalDebts": 290,
+  "totalAssets": 290,
+  "financialHealthScore": 8740,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655270009f30a1165ad6ce59"
+  },
+  "monthlyIncome": 600,
+  "monthlyExpenses": 600,
+  "totalDebts": 600,
+  "totalAssets": 600,
+  "financialHealthScore": 18040,
+  "__v": 0
+}]
